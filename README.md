@@ -35,7 +35,7 @@ Formatação de texto e valores numéricos (.2f)
 
 1. Certifique-se de ter o Python 3 instalado.
 2. Baixe o código deste repositório:
-  git clone https://github.com/niczinhoxx/LanchonetePy.git
+  git clone https://github.com/niczinhoxx/Sistema-lanchonetePy.git
 3. Acesse a pasta
    cd LanchonetePy
 4. Execute o programa
